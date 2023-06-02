@@ -1,6 +1,6 @@
 # EEG-Stress-Detection
 
-This repository contains the code and documentation for a Brain-Computer Interface (BCI) project aimed at improving the lives of individuals experiencing daily stress. The project utilizes cutting-edge technology to detect stress by analyzing alpha and beta activities in the frontal lobe and monitoring brain activity in the right frontal lobe.
+This repository contains the code and documentation for a Brain-Computer Interface (BCI) project aimed at improving the lives of individuals experiencing daily stress. The project utilizes cutting-edge technology to detect stress by analyzing alpha and beta activities in the frontal lobe and monitoring brain activity in the frontal lobe.
 
 ## 1. Data Collection: 
 The project involved placing 8 EEG electrodes on specific positions on the subject's head to read neural signals. The OpenBCI hardware and software were used to record the raw data.
