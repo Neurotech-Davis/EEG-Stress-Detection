@@ -8,7 +8,7 @@ The repository aims to provide an open-source solution for stress detection usin
 
 ## 1. Data Collection: 
 
-The project involved placing 8 EEG electrodes on specific positions on the subject's head to read neural signals. The OpenBCI hardware and software were used to record the raw data.
+The project involved placing 8 EEG electrodes on specific positions on the subject's head to read neural signals. The OpenBCI hardware and software were used to record the raw data. The collection involved participants performing a Stroop Test, a known stress-inducing psychological test.
 
 ## 2. Preprocessing: 
 
