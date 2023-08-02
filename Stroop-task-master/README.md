@@ -1,5 +1,8 @@
 # Stroop_Task
-In psychology, the Stroop task is often used to test conflict management and it's interference on reaction times and accuracy in the task. This task uses different color-word pairs to help observe the stoorp effect.
+
+ADAPTED FROM https://github.com/srujanpatil/Stroop-task.
+
+In psychology, the Stroop task is often used to test conflict management and its interference on reaction times and accuracy in the task. This task uses different color-word pairs to help observe the Stroop effect.
 
 ------------------------------------------------------------------------------------------------------
 
@@ -11,6 +14,6 @@ STEPS TO RUN THE TEST:
   2) Open the "stroopex.py" using the PsychoPy GUI and tune the experiment as required.
   3) To run it you could use GUI or simple execute the source file on your terminal.
   
-NOTE: You might come accross a lot of errors during setting up PsychoPy. Also, you might want to avoid pip as it doesn't install the GUI which makes life way easier.
+NOTE: You might come across a lot of errors during setting up PsychoPy. Also, you might want to avoid pip as it doesn't install the GUI which makes life way easier.
 
 Connecting Cyton to PsychoPy: https://docs.openbci.com/Cyton/CytonExternal/
